@@ -91,6 +91,12 @@
 
 <br/>
 
+* HTML and CSS Assignment
+	* <b>Pick any one assignment for HTML and CSS</b> 
+	* [Assignment 1](https://github.com/locationguru-solutions/internship-drive-web/issues/10)
+	* [Assignment 2](https://github.com/locationguru-solutions/internship-drive-web/issues/11)
+
+
 * Bootstrap Framework
 	* [Explore Bootstrap framework](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 	* [Bootstrap Assignment ](https://github.com/locationguru-solutions/internship-drive-web/issues/11)
