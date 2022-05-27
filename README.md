@@ -100,7 +100,7 @@
 
 * Bootstrap Framework
 	* [Explore Bootstrap framework](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-	* [Bootstrap Assignment ](https://github.com/locationguru-solutions/internship-drive-web/issues/11)
+	* [Bootstrap Assignment ](https://github.com/locationguru-solutions/internship-drive-web/issues/12)
 
 <br/>
 
